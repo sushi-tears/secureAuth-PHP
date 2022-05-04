@@ -1,4 +1,4 @@
-# secureAuth-PHP
+# secureAuth-PHP OOP
 
 Requires XAMPP - Apache | MySQL 
 
